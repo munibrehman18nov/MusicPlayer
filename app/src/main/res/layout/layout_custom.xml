@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".JukeboxActivity"
+    android:orientation="horizontal"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:background="#ffffff">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/imageVU" />
+
+        <TextView
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:text=""
+            android:background="#8dc8b5"
+            android:textAlignment="gravity"
+            android:textColor="#62231b"
+            android:paddingLeft="10dp"
+            android:paddingTop="25dp"
+            android:id="@+id/musicTextVU"/>
+
+</LinearLayout>

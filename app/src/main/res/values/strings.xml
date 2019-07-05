@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JukeBox</string>
+
+    <string-array name="songsNames">
+        <item>you_dont_know_me</item>
+        <item>fi_ha</item>
+        <item>into_you</item>
+        <item>attention</item>
+        <item>private_1</item>
+        <item>private_2</item>
+        <item>mayores</item>
+        <item>bom_diggy</item>
+        <item>nobody</item>
+        <item>instruction</item>
+        <item>so_far_away</item>
+        <item>ya_lili</item>
+        <item>dame_tu_cosita</item>
+        <item>nicky_jam</item>
+        <item>mal_habibi_malou</item>
+        <item>all_to_you </item>
+        <item>cross_your_mind</item>
+        <item>the_middle</item>
+        <item>the_7th_element</item>
+        <item>song</item>
+
+    </string-array>
+</resources>
